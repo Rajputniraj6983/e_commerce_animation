@@ -19,5 +19,5 @@ E-Commerce Animation App is a beautifully designed and fully functional E-Commer
 
 ## video
 
-
+  <video src ="https://github.com/user-attachments/assets/1e658d00-2958-48eb-a1b2-3bd78284a932">
 
